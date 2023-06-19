@@ -1,2 +1,3 @@
 # SoftUni-Courses
-Courses from my education @ Softuni.
+
+This is the demo repository for Software Technologies May 2023 Course @ SoftUni
